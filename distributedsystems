@@ -1,0 +1,10 @@
+System Design:
+(Intro to Distributed Systems) http://book.mixu.net/distsys/single-page.html
+(Scalable Web Architecture and Distributed Systems) http://aosabook.org/en/distsys.html
+(System Design Exercise) https://www.hiredintech.com/
+
+
+Whitepapers:
+Amazon Dynamo - https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
+Google Bigtable - http://static.googleusercontent.com/media/research.google.com/en/us/archive/bigtable-osdi06.pdf
+Google Spanner - http://static.googleusercontent.com/media/research.google.com/en/us/archive/spanner-osdi2012.pdf
